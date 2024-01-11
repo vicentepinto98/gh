@@ -1,1 +1,1 @@
-Bar
+Bar updated in public

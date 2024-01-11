@@ -1,1 +1,1 @@
-Foo
+Foo updated in public
